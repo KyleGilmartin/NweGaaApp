@@ -27,7 +27,7 @@ public class NewsAdminFragment extends Fragment {
     DatabaseReference ref;
     Button insert;
     NewTable newTable;
-//test3
+//test33
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
